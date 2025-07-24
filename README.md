@@ -1,4 +1,4 @@
-I’ve created this repository to document my journey in Full Stack Web Development using Spring Boot for the backend and modern frontend technologies like HTML, CSS, JavaScript, and optionally React. Each project in this repo demonstrates end-to-end application flow — from designing RESTful APIs in Spring Boot, handling data with MySQL using JPA/Hibernate, to building responsive and interactive user interfaces.
+Hi, I’m Aswin Karthik Vijayakumar, a third-year B.Tech Computer Science and Engineering student from SRM Institute of Science and Technology, Trichy. This repository showcases my hands-on journey in Full Stack Web Development using Spring Boot for the backend and modern frontend technologies like HTML, CSS, JavaScript, and optionally React. Each project in this collection reflects my ability to build complete, scalable web applications — from creating secure and efficient RESTful APIs using Spring Boot and managing databases with MySQL and JPA, to developing responsive user interfaces with proper form validation and clean UI/UX practices. 
 
 This collection showcases my ability to:
 
